@@ -1,0 +1,4 @@
+INFO:root:Running add with arguments (2, 5)
+INFO:root:Running 'add' with arguments (6, 5)
+INFO:root:Running 'square' with arguments (6,)
+INFO:root:Running 'add' with arguments (2, 3)

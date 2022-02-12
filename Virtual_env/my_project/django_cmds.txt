@@ -1,0 +1,8 @@
+django-admin startproject <Project_name>
+
+navigate to the dir where you have manage.py file
+	python manage.py runserver
+
+python manage.py startapp <app_name>
+install app
+	
